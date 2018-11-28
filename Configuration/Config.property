@@ -1,0 +1,4 @@
+Browser=Chrome
+#ChromeFirefox
+
+Server_url=http://localhost:3333/

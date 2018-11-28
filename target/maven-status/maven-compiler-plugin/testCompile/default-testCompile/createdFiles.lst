@@ -1,0 +1,5 @@
+Apptests\InvalidUrl.class
+Apptests\Jobdeatils.class
+Apptests\Joblist.class
+Apptests\NavigateBackToList.class
+Apptests\ValidUrl.class

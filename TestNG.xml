@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Heyjobs_Cases" verbose="1" >
+  <test name="Defualt" >
+    <classes>
+        <class name="Apptests.ValidUrl" />
+        <class name="Apptests.InvalidUrl"/>
+        <class name="Apptests.Joblist"/>
+        <class name="Apptests.Jobdeatils"/>
+        <class name="Apptests.NavigateBackToList"/>    
+    </classes>
+  </test>
+</suite>
